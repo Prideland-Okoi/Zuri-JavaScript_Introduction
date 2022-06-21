@@ -1,5 +1,7 @@
 ## Github Page URL
 
+https://prideland-okoi.github.io/Zuri-JavaScript_Introduction/
+
 ## Task Title: Introduction to Javascript
 
 Assignment
@@ -12,7 +14,7 @@ GitHub Url
 
 ## Resources
 
-Introduction to Javascript by ToluFolorunso - The Zuri Team[Click here to watch](https://www.youtube.com/watch?v=O8c_L2G8bsQ)
+Introduction to Javascript by ToluFolorunso - The Zuri Team[Click here](https://www.youtube.com/watch?v=O8c_L2G8bsQ)
 
 ## Technologies
 
